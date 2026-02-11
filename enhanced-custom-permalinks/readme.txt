@@ -1,5 +1,5 @@
 === Enhanced Custom Permalinks ===
-Contributors: Tor N. Johnson
+Contributors: kasigi, dcartist
 Tags: permalink, url, link, address, custom, redirect
 Requires at least: 3.0
 Tested up to: 6.5.4
